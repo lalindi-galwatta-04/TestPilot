@@ -186,3 +186,13 @@ Developed as an Android development and software testing portfolio project.
 ## License
 
 No open-source license has been assigned to this project yet. All rights are reserved by the author unless a license is added to this repository.
+
+## Testing Documentation
+
+The testing documentation is available in the
+[`testing/`](testing/) directory.
+
+- [Software Test Cases](testing/test-cases.md)
+- [Test Execution Report](testing/test-execution-report.md)
+- [Defect Report](testing/defect-report.md)
+- [Test Summary Report](testing/test-summary.md)
