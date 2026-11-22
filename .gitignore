@@ -1,0 +1,36 @@
+
+# Android Studio
+*.iml
+.idea/
+.gradle/
+
+# Local configuration - DO NOT UPLOAD
+local.properties
+
+# Build outputs
+/build/
+/app/build/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated packages
+*.apk
+*.aab
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Signing credentials
+*.jks
+*.keystore
+
+# Local secrets
+secrets.properties
