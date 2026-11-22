@@ -190,9 +190,9 @@ No open-source license has been assigned to this project yet. All rights are res
 ## Testing Documentation
 
 The testing documentation is available in the
-[`testing/`](testing/) directory.
+following links.
 
-- [Software Test Cases](testing/test-cases.md)
-- [Test Execution Report](testing/test-execution-report.md)
-- [Defect Report](testing/defect-report.md)
-- [Test Summary Report](testing/test-summary.md)
+- [Software Test Cases](test-cases.md)
+- [Test Execution Report](test-execution-report.md)
+- [Defect Report](defect-report.md)
+- [Test Summary Report](test-summary.md)
